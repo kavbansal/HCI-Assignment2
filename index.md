@@ -15,8 +15,8 @@ The 7 Principles of Universal Design were set forth by a team led by Robert Mace
 7.	Size and Space for Approach and Use: Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user's body size, posture, or mobility
 By following these principles, designers can make their designs accessible to more potential users from the beginning, creating better solutions and possibly eliminating the need for supplemental assistive technology after the design has been implemented, which simplifies things for the user and can also help reduce expenses.
 Perhaps the best way to understand these principles is in action. The following video does a great job demonstrating how these principles have been applied to the design of Ed Roberts Campus in Berkeley, California, showing how universal design can make a real difference.
-https://www.youtube.com/watch?v=G-tHuD7R8cs 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-tHuD7R8cs?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What does Universal Design look like?
 
