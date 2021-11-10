@@ -38,9 +38,7 @@ PICTURE
 
 As technology continues to advance, universal design will be increasingly important to ensure that no groups of people get left behind by further innovation. As the examples discussed highlight, universal design is not exclusive to any particular field, but rather should be adopted in any field or industry where design is involved. By carefully considering the 7 principles and applying universal design, designers can create innovative solutions that can seamlessly be used by people of all backgrounds, ages, and abilities. 
 
-
-
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kavbansal/HCI-Assignment2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -76,4 +74,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
