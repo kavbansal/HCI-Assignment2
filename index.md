@@ -2,27 +2,33 @@
   <img width="579" height="225" src="https://blog.ai-media.tv/hubfs/Screen-Shot-2015-07-08-at-10.02.45-PM.png">
 </p>
 
-# Universal Design
-
-## What is Universal Design?
+# What is Universal Design?
 Universal design is defined as “the design and composition of an environment so that it can be accessed, understood and used to the greatest extent possible by all people regardless of their age, size, ability or disability”. This involves considering users of all backgrounds and capability from the very beginning of design, which differs from assistive technology that can be implemented after-the-fact to help certain groups of users. 
 
-## 7 Guiding principles of Universal Design
+# 7 Guiding principles of Universal Design
 
 The 7 Principles of Universal Design were set forth by a team led by Robert Mace at North Carolina State University to guide the design of environments, products, and communications in a way that considers all potential users. These principles are
-1.	Equitable Use: The design is useful and marketable to people with diverse abilities
-2.	Flexibility in Use: The design accommodates a wide range of individual preferences and abilities
-3.	Simple and Intuitive Use: Use of the design is easy to understand, regardless of the user's experience, knowledge, language skills, or current concentration level
-4.	Perceptible Information: The design communicates necessary information effectively to the user, regardless of ambient conditions or the user's sensory abilities
-5.	Tolerance for Error: The design minimizes hazards and the adverse consequences of accidental or unintended actions
-6.	Low Physical Effort: The design can be used efficiently and comfortably and with a minimum of fatigue
-7.	Size and Space for Approach and Use: Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user's body size, posture, or mobility
+
+**1.	Equitable Use:** The design is useful and marketable to people with diverse abilities
+
+**2.	Flexibility in Use:** The design accommodates a wide range of individual preferences and abilities
+
+**3.	Simple and Intuitive Use:** Use of the design is easy to understand, regardless of the user's experience, knowledge, language skills, or current concentration level
+
+**4.	Perceptible Information:** The design communicates necessary information effectively to the user, regardless of ambient conditions or the user's sensory abilities
+
+**5.	Tolerance for Error:** The design minimizes hazards and the adverse consequences of accidental or unintended actions
+
+**6.	Low Physical Effort:** The design can be used efficiently and comfortably and with a minimum of fatigue
+
+**7.	Size and Space for Approach and Use:** Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user's body size, posture, or mobility
+
 By following these principles, designers can make their designs accessible to more potential users from the beginning, creating better solutions and possibly eliminating the need for supplemental assistive technology after the design has been implemented, which simplifies things for the user and can also help reduce expenses.
 Perhaps the best way to understand these principles is in action. The following video does a great job demonstrating how these principles have been applied to the design of Ed Roberts Campus in Berkeley, California, showing how universal design can make a real difference.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/G-tHuD7R8cs?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-## What does Universal Design look like?
+# What does Universal Design look like?
 
 The Ed Roberts Campus is one great example but it is far from the only example of universal design. We can all identify examples of universal design in our daily lives.
 
@@ -38,46 +44,6 @@ As the world around us grows increasingly digital, universal design becomes even
 
 ![iphone-x-siri-battery-percentage.jpg](https://9to5mac.com/wp-content/uploads/sites/6/2017/11/iphone-x-siri-battery-percentage.jpg?quality=82&strip=all&w=1600)
 
-## Closing Thoughts
+# Closing Thoughts
 
-As technology continues to advance, universal design will be increasingly important to ensure that no groups of people get left behind by further innovation. As the examples discussed highlight, universal design is not exclusive to any particular field, but rather should be adopted in any field or industry where design is involved. By carefully considering the 7 principles and applying universal design, designers can create innovative solutions that can seamlessly be used by people of all backgrounds, ages, and abilities. 
-  
-
-
-<!-- ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kavbansal/HCI-Assignment2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kavbansal/HCI-Assignment2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+As technology continues to advance, universal design will be increasingly important to ensure that no groups of people get left behind by further innovation. As the examples discussed highlight, universal design is not exclusive to any particular field, but rather should be adopted in any field or industry where design is involved. By carefully considering the 7 principles and applying universal design, designers can create innovative solutions that can seamlessly be used by people of all backgrounds, ages, and abilities.
