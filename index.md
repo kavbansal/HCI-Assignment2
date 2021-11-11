@@ -51,7 +51,7 @@ As the world around us grows increasingly digital, universal design becomes even
 
 As technology continues to advance, universal design will be increasingly important to ensure that no groups of people get left behind by further innovation. As the examples discussed highlight, universal design is not exclusive to any particular field, but rather should be adopted in any field or industry where design is involved. By carefully considering the 7 principles and applying universal design, designers can create innovative solutions that can seamlessly be used by people of all backgrounds, ages, and abilities.
 
-<br></br>
+<br>
 
 ## Citations
 Aside from [class notes](https://drive.google.com/file/d/1mahXXjWWbTgpPHCI2-awwYhpU7owd-Hx/view?usp=sharing), all sources for text portion are cited with clickable superscripts that route to the source. Images and Videos are also clickable to route to the source. 
