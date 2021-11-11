@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://blog.ai-media.tv/hubfs/Screen-Shot-2015-07-08-at-10.02.45-PM.png">
   <img width="579" height="225" src="https://blog.ai-media.tv/hubfs/Screen-Shot-2015-07-08-at-10.02.45-PM.png">
+  </a>
 </p>
 
 # What is Universal Design?
