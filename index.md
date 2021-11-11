@@ -3,11 +3,11 @@
 </p>
 
 # What is Universal Design?
-Universal design is defined as “the design and composition of an environment so that it can be accessed, understood and used to the greatest extent possible by all people regardless of their age, size, ability or disability”. This involves considering users of all backgrounds and capability from the very beginning of design, which differs from assistive technology that can be implemented after-the-fact to help certain groups of users. 
+Universal design is defined as “the design and composition of an environment so that it can be accessed, understood and used to the greatest extent possible by all people regardless of their age, size, ability or disability” <sup>[1](https://universaldesign.ie/what-is-universal-design/)</sup>. This involves considering users of all backgrounds and capability from the very beginning of design, which differs from assistive technology that can be implemented after-the-fact to help certain groups of users. 
 
 # 7 Guiding principles of Universal Design
 
-The 7 Principles of Universal Design were set forth by a team led by Robert Mace at North Carolina State University to guide the design of environments, products, and communications in a way that considers all potential users. These principles are
+The 7 Principles of Universal Design were set forth by a team led by Robert Mace at North Carolina State University to guide the design of environments, products, and communications in a way that considers all potential users <sup>[2](https://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html)</sup>. These principles are
 
 **1.	Equitable Use:** The design is useful and marketable to people with diverse abilities
 
@@ -24,6 +24,7 @@ The 7 Principles of Universal Design were set forth by a team led by Robert Mace
 **7.	Size and Space for Approach and Use:** Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user's body size, posture, or mobility
 
 By following these principles, designers can make their designs accessible to more potential users from the beginning, creating better solutions and possibly eliminating the need for supplemental assistive technology after the design has been implemented, which simplifies things for the user and can also help reduce expenses.
+
 Perhaps the best way to understand these principles is in action. The following video does a great job demonstrating how these principles have been applied to the design of Ed Roberts Campus in Berkeley, California, showing how universal design can make a real difference.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/G-tHuD7R8cs?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -47,3 +48,7 @@ As the world around us grows increasingly digital, universal design becomes even
 # Closing Thoughts
 
 As technology continues to advance, universal design will be increasingly important to ensure that no groups of people get left behind by further innovation. As the examples discussed highlight, universal design is not exclusive to any particular field, but rather should be adopted in any field or industry where design is involved. By carefully considering the 7 principles and applying universal design, designers can create innovative solutions that can seamlessly be used by people of all backgrounds, ages, and abilities.
+
+## Citations
+Please note that all in-text citation superscripts are clickable to route to the source. Images and Videos are also clickable to route to the source.
+
